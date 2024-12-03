@@ -1,0 +1,32 @@
+section
+{
+text-align: center;
+}
+.container
+{
+transform: translateY(30%);
+}
+h1
+{
+    font-size: 40px;
+    font-weight: bold;
+}
+h2
+{
+    margin: 2rem 0;
+}
+h3,h4
+{
+    font-size: 24px;
+}
+button
+{
+    padding: 1.5rem 5rem;
+    background-color: teal;
+    border-radius: 6px;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color: aqua;
+}
